@@ -7,7 +7,7 @@ export default function Home() {
         Manage Resources, <span style={{ color: 'var(--color-primary)' }}>Minimally</span>
       </h1>
       <p style={{ fontSize: '1.25rem', color: 'var(--color-text-muted)', marginBottom: '3rem', lineHeight: 1.6 }}>
-        A portfolio-quality React Single Page Application demonstrating clean architecture, 
+        A React Single Page Application demonstrating clean architecture, 
         modern hooks, custom UI feedback, and completely handcrafted design without the clutter.
       </p>
       
