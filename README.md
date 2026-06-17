@@ -46,3 +46,11 @@ src/
    ```bash
    npm run dev
    ```
+
+## Author & Copyright
+
+**Created by Vedant Khalshinge**
+
+&copy; 2023 Vedant Khalshinge. All rights reserved.
+
+*This project is proprietary and confidential. Unauthorized copying, modification, or distribution is strictly prohibited.*

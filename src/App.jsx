@@ -15,7 +15,7 @@ export default function App() {
               <AppRoutes />
             </main>
             <footer style={{ textAlign: 'center', padding: '2rem', color: 'var(--color-text-muted)', fontSize: '0.875rem' }}>
-              &copy; {new Date().getFullYear()} Minimal React SPA.
+              &copy; {new Date().getFullYear()} Vedant Khalshinge. All rights reserved.
             </footer>
           </div>
         </ModalProvider>
