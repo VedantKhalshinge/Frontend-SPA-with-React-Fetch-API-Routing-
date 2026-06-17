@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "id": "1",
+      "title": "React Architecture Patterns",
+      "category": "Frontend",
+      "description": "A comprehensive guide to scaling React applications using custom hooks and modular component structures. Discusses context providers, custom hooks, and state abstraction.",
+      "createdAt": "2023-11-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Mastering the Fetch API",
+      "category": "Networking",
+      "description": "How to build robust networking layers in JavaScript without heavy third-party libraries. Includes error handling, timeouts, and request cancellation strategies.",
+      "createdAt": "2023-11-05T14:30:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Minimal UI Design Guidelines",
+      "category": "Design",
+      "description": "Learn the principles of minimalist interface design. Focuses on typography, white space, and subtle interactions over flashy animations and glassmorphism.",
+      "createdAt": "2023-11-10T09:15:00Z"
+    }
+  ]
+}
