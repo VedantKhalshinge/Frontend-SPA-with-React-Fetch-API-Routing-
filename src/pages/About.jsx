@@ -8,9 +8,7 @@ export default function About() {
       
       <div className="card" style={{ marginTop: '2rem', lineHeight: 1.8 }}>
         <p style={{ marginBottom: '1rem' }}>
-          This application was built to demonstrate clean, portfolio-quality React code. 
-          It strictly adheres to functional programming paradigms utilizing React Hooks 
-          and avoids bloated third-party styling libraries.
+          This application was built to demonstrate clean, high-quality React code. It strictly adheres to functional programming paradigms utilizing React Hooks and avoids bloated third-party styling libraries.
         </p>
         <p>
           The UI is handcrafted using plain CSS, emphasizing typography, white space, and 

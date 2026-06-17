@@ -4,7 +4,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-A portfolio-quality React Single Page Application that demonstrates clean architecture, modular functional components, custom hooks, and a fully functional CRUD interface.
+A High-Quality React Single Page Application that demonstrates clean architecture, modular functional components, custom hooks, and a fully functional CRUD interface.
 
 ## Project Philosophy
 Built to feel like an authentic, high-quality project by a Computer Engineering student. 
